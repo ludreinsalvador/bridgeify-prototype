@@ -1,6 +1,6 @@
 # Bridgeify: Optimizing Last-Mile Emergency Aid Delivery
 
-![Mockup](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-mockup.png)
+![Mockup](https://github.com/ludreinsalvador/bridgeify-prototype/blob/main/bridgeify-mockup.png)
 
 **Project Collaborators:**  
 - Hannah Laggui  
@@ -15,8 +15,13 @@
 
 ---
 
-## 🖼️ Prototype Key Screens  
-![Prototype Key Screens](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-ui-prototype.png)
+## 🖼️ Prototype Key Screens and Pages  
+![Bridgeify Desktop](bridgeify-desktop.png)
+![Bridgeify Mobile Ui](bridgeify-mobile-ui.png)
+![Bridgeify Mobile](bridgeify-mobile.png)
+
+## 🖼️ Additional Design Assets
+![Bridgeify Components](bridgeify-components.png)
 
 ---
 
@@ -123,10 +128,3 @@ Focused on last-mile delivery in disaster scenarios.
 - **Volunteer Engagement:** Boost volunteer participation  
 - **System Deployment:** Implement real-time tracking in under 6 months
 
-
-## 🖼️ Additional Design Assets
-![Bridgeify Components](bridgeify-components.png)
-![Bridgeify Desktop](bridgeify-desktop.png)
-![Bridgeify Mobile Ui](bridgeify-mobile-ui.png)
-![Bridgeify Mobile](bridgeify-mobile.png)
-![Bridgeify Mockup](bridgeify-mockup.png)
