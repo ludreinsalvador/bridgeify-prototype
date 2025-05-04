@@ -1,12 +1,11 @@
-
-# Bridgeify: Optimizing Last-Mile Emergency Aid Delivery (UI/UX Design)
+# Bridgeify: Optimizing Last-Mile Emergency Aid Delivery
 
 ![Mockup](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-mockup.png)
 
-**Project Collaborators:**
+**Project Collaborators:**  
 - Hannah Laggui  
 - Joshua Castro  
-- Zyrhone Castillo  
+- Zyrhone Castillo 
 
 ---
 
@@ -122,4 +121,12 @@ Focused on last-mile delivery in disaster scenarios.
 - **Delivery Efficiency:** Reduce average delivery times in disaster zones within 1 year  
 - **Resource Utilization:** Minimize resource wastage by 18 months  
 - **Volunteer Engagement:** Boost volunteer participation  
-- **System Deployment:** Implement real-time tracking in under 6 months  
+- **System Deployment:** Implement real-time tracking in under 6 months
+
+
+## 🖼️ Additional Design Assets
+![Bridgeify Components](bridgeify-components.png)
+![Bridgeify Desktop](bridgeify-desktop.png)
+![Bridgeify Mobile Ui](bridgeify-mobile-ui.png)
+![Bridgeify Mobile](bridgeify-mobile.png)
+![Bridgeify Mockup](bridgeify-mockup.png)
